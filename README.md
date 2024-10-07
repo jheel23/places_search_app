@@ -5,7 +5,7 @@ The **Place Search App** provides place suggestions based on user input using th
 ## 📱 Built with
 
 - **Flutter**: The app is built using Flutter for seamless cross-platform mobile development, ensuring smooth performance on both Android and iOS devices.
-- **Google Map**: All movie and TV show data is fetched from the TVMaze API, providing real-time updates on the latest releases.
+- **Google Map**: App uses Google Map platform to render different styles of map.
 
 ## ✨ Features
 
@@ -33,8 +33,8 @@ To run this app locally, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/jheel23/moviez_app_v2.git
-   cd moviez_app_v2
+   git clone https://github.com/jheel23/places_search_app.git
+   cd places_search_app
 ## 📦 APK Download
 
 You can download the APK file of the app from [this link](https://drive.google.com/file/d/1EfzQzTOrZGMjAJo7L8JKpEaECQIOuQO7/view?usp=sharing).
